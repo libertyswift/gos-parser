@@ -1,1 +1,2 @@
-# gos-parser
+npx playwright install chromium
+brew install unoconv
